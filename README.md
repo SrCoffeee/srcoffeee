@@ -17,7 +17,6 @@ Estudiante de Ingeniería Mecatrónica con **fanatismo serio por el café**, los
 
 Me muevo feliz entre **control, automatización y software**: lo que pueda medir, modelar o automatizar… me lo llevo.
 
-> *Traducción no geek: hago que las cosas funcionen mejor, solito o en equipo.*
 
 ---
 
@@ -27,7 +26,7 @@ Me muevo feliz entre **control, automatización y software**: lo que pueda medir
 - **Programación para analizar y crear**: **Python** y **MATLAB/Simulink** para datos, simulación y prototipos.
 - **Diseño y fabricación**: cuando toca pasar del modelo al mundo real: **Inventor / AutoCAD** y compañía.
 
-*(Traducción no geek: hago que las cosas funcionen mejor, solito o en equipo.)*
+> *Traducción no geek: hago que las cosas funcionen mejor, solito o en equipo.*
 
 ---
 
