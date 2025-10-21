@@ -21,28 +21,13 @@ Me muevo feliz entre **control, automatización y software**: lo que pueda medir
 
 ---
 
-## 💼 Lo que hago (y disfruto)
-```mermaid
-graph LR
-    A[Automatización] --> B[Reportes Inteligentes]
-    A --> C[Flujos Optimizados]
-    D[Control & Robótica] --> E[PID & Estados]
-    D --> F[PLCs & Ladder]
-    G[Desarrollo] --> H[Python & MATLAB]
-    G --> I[Apps Script & VBA]
-```
+## 🚀 Lo que hago (y disfruto)
+- **Automatización de procesos**: desde reportes con **Excel + VBA** hasta flujos en **Google Workspace con Apps Script**.
+- **Control y robótica**: control clásico (**PID, espacio de estados**), lógica **Ladder** y PLCs (TIA Portal / Studio 5000).
+- **Programación para analizar y crear**: **Python** y **MATLAB/Simulink** para datos, simulación y prototipos.
+- **Diseño y fabricación**: cuando toca pasar del modelo al mundo real: **Inventor / AutoCAD** y compañía.
 
-🔧 **Automatización de procesos**  
-Desde reportes con **Excel + VBA** hasta flujos completos en **Google Workspace con Apps Script**
-
-🤖 **Control y robótica**  
-Control clásico (**PID, espacio de estados**), lógica **Ladder** y PLCs (TIA Portal / Studio 5000)
-
-💻 **Programación para analizar y crear**  
-**Python** y **MATLAB/Simulink** para datos, simulación y prototipos
-
-⚙️ **Diseño y fabricación**  
-Del modelo al mundo real: **Inventor / AutoCAD** y todo lo necesario para materializar ideas
+*(Traducción no geek: hago que las cosas funcionen mejor, solito o en equipo.)*
 
 ---
 
@@ -79,6 +64,8 @@ Del modelo al mundo real: **Inventor / AutoCAD** y todo lo necesario para materi
 ---
 
 ## 🚀 Proyectos & Logros Recientes
+
+<div align="center">
 
 <table>
 <tr>
@@ -118,6 +105,8 @@ Del modelo al mundo real: **Inventor / AutoCAD** y todo lo necesario para materi
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
