@@ -109,11 +109,11 @@ Me muevo feliz entre **control, automatización y software**: lo que pueda medir
 
 ---
 
-## 📬 Hablemos
+## 📬 Personales
 
-¿Necesitas **automatizar algo**, bajar tiempos de un proceso o prototipar control?
+Aqui suelo estar totalmente **GRATIS** :D 
 
-**Dispara el mensaje. Si hay café, mejor.** ☕😄
+**Si hay café, mejor.** ☕😄
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Si algo de acá te llamó la atención, te muestro el "cómo" sin humo.
 
 ---
 
-*"Automatizar hoy lo que te quitará tiempo mañana"* ⚡
+*"Automatizar hoy lo que te quitará tiempo mañana"* (me la acabo de inventar :p) ⚡
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet&style=for-the-badge)](https://github.com/tuusuario)
 
