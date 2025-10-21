@@ -135,6 +135,6 @@ Si algo de acá te llamó la atención, te muestro el "cómo" sin humo.
 
 *"Automatizar hoy lo que te quitará tiempo mañana"* (me la acabo de inventar :p) ⚡
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet&style=for-the-badge)](https://github.com/tuusuario)
+[![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet&style=for-the-badge)](https://github.com/srcoffeee)
 
 </div>
