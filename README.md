@@ -15,7 +15,7 @@
 
 Estudiante de Ingeniería Mecatrónica con **fanatismo serio por el café**, los deportes y la música. Geek a tiempo completo y **experto empírico en IAs**.
 
-Me muevo feliz entre **control, automatización y software**: lo que pueda medir, modelar o automatizar… me lo llevo.
+Me muevo feliz (a veces no tanto) entre **control, automatización y software**.
 
 
 ---
@@ -25,8 +25,6 @@ Me muevo feliz entre **control, automatización y software**: lo que pueda medir
 - **Control y robótica**: control clásico (**PID, espacio de estados**), lógica **Ladder** y PLCs (TIA Portal / Studio 5000).
 - **Programación para analizar y crear**: **Python** y **MATLAB/Simulink** para datos, simulación y prototipos.
 - **Diseño y fabricación**: cuando toca pasar del modelo al mundo real: **Inventor / AutoCAD** y compañía.
-
-> *Traducción no geek: hago que las cosas funcionen mejor, solito o en equipo.*
 
 ---
 
@@ -55,10 +53,9 @@ Me muevo feliz entre **control, automatización y software**: lo que pueda medir
 - Control PID y espacio de estados
 - Programación Ladder para PLCs
 - APIs de Google Workspace
-- Robótica (RobotStudio)
 - CAD/CAE (ANSYS cuando toca)
 
-> 💡 Si hay que conectar sensores, microcontroladores o APIs para que todo fluya, me apunto.
+> 💡 Si hay que conectar sensores, microcontroladores o APIs para que todo fluya, voy de una.
 
 ---
 
